@@ -1,0 +1,6 @@
+{
+  "name": "YKM Brand Portfolio",
+  "description": "Interactive executive portfolio of Yuvaraj Kumar M (YKM), featuring business strategy insights, a cosmic timing planner, pitch deck audit tool, and a dark mode toggle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
